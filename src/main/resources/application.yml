@@ -1,0 +1,9 @@
+logging:
+  level:
+    org.springframework.web: info
+    cn.binarywang.wx.miniapp: debug
+wx:
+  miniapp:
+    configs:
+        - appid:
+          secret: 
